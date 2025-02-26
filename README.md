@@ -55,12 +55,13 @@ An intelligent code assistant powered by Groq's LLM (Llama-3.3-70b) that helps d
 │ │ ├── services/
 │ │ └── utils/
 │ └── public/
+│
 └── backend/
-├── src/
-│ ├── controllers/
-│ ├── services/
-│ └── routes/
-└── config/
+  ├── src/
+  │ ├── controllers/
+  │ ├── services/
+  │ └── routes/
+  └── config/
 ```
 ## Supported Programming Languages
 
